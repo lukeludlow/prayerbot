@@ -2,7 +2,8 @@
 
 An Alexa skill designed to settle mormon family arguments by saying the prayer for them. 
 
-Zeniff was a Nephite king praised for his ability to see the good in others and his attempts to make a peace treaty with the Lamanites, negotiating with his enemies rather than making war.
+Zeniff was a Nephite king who achieved a tentative peace with the evil Lamanites using his ability to see the good in others and negotiate.
+
 
 ## Getting Started
 
