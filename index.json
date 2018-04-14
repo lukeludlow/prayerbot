@@ -44,6 +44,8 @@
                     "name": "DinnerPrayer",
                     "slots": [],
                     "samples": [
+                        "offer the dinner prayer",
+                        "say grace for us",
                         "pray for this food",
                         "say grace",
                         "pray for this meal",
