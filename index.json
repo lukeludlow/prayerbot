@@ -1,0 +1,103 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "prayer bot",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": [
+                        "go away",
+                        "stop"
+                    ]
+                },
+                {
+                    "name": "BasicPrayer",
+                    "slots": [],
+                    "samples": [
+                        "offer a prayer for us",
+                        "offer a prayer",
+                        "say the prayer please",
+                        "please say the prayer",
+                        "please pray",
+                        "pray please",
+                        "pray for us",
+                        "pray",
+                        "say a random prayer",
+                        "say the prayer",
+                        "say the prayer for us",
+                        "say a prayer"
+                    ]
+                },
+                {
+                    "name": "AMAZON.RepeatIntent",
+                    "samples": []
+                },
+                {
+                    "name": "DinnerPrayer",
+                    "slots": [],
+                    "samples": [
+                        "pray for this food",
+                        "say grace",
+                        "pray for this meal",
+                        "bless this meal",
+                        "bless this dinner",
+                        "bless this food",
+                        "bless our dinner",
+                        "bless our food",
+                        "pray for our dinner",
+                        "give the blessing",
+                        "bless the food",
+                        "say the dinner prayer for us",
+                        "say the dinner prayer"
+                    ]
+                },
+                {
+                    "name": "RefreshmentPrayer",
+                    "slots": [],
+                    "samples": [
+                        "bless the treats",
+                        "bless the snacks",
+                        "bless the dougnuts",
+                        "bless the cookies",
+                        "please bless the refreshments",
+                        "bless the refreshments"
+                    ]
+                },
+                {
+                    "name": "PrayerIdeas",
+                    "slots": [],
+                    "samples": [
+                        "suggest what we should pray about",
+                        "give me ideas",
+                        "give me prayer ideas",
+                        "tell me what i should pray about",
+                        "what should i pray about",
+                        "tell me ideas for praying",
+                        "to give me ideas on what to pray about"
+                    ]
+                },
+                {
+                    "name": "LongPrayer",
+                    "slots": [],
+                    "samples": [
+                        "say that prayer from alma",
+                        "say a blashphemous prayer",
+                        "say a funny prayer",
+                        "say a rote prayer",
+                        "say a fun prayer",
+                        "say a long prayer"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
