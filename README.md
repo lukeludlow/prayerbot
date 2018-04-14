@@ -7,37 +7,20 @@ Zeniff was a Nephite king in the Book of Mormon who achieved a tentative peace w
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Search for and enable the skill "Prayer Bot" in the Alexa app. For more detailed information on enabling Alexa skills, see [this](https://www.amazon.com/gp/help/customer/display.html?nodeId=201848700) guide. 
 
-### Prerequisites
+## Usage
 
-What things you need to install the software and how to install them
+Prayer Bot gives spontaneous randomly generated prayers. Prayer Bot can offer a basic prayer, bless the food, or give you prayer ideas so you can say it yourself.
 
-```
-Give examples
-```
+The full list of intents are:
+* Basic Prayer
+* Dinner Prayer
+* Refreshment Prayer
+* Prayer Ideas
+* Long Prayer (a bit of a joke)
 
-### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
 
 ### Break down into end to end tests
 
@@ -55,11 +38,9 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
-* [Maven](https://maven.apache.org/) - Dependency Management
+* python 3.6
+* aws lambda
+* amazon alexa skills kit
 
