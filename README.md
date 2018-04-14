@@ -1,4 +1,4 @@
-# zeniff
+# zeniff / prayer bot
 
 An Alexa skill designed to settle mormon family arguments by saying the prayer for them. 
 
