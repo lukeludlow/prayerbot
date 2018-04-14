@@ -3,7 +3,6 @@
 An Alexa skill designed to settle mormon family arguments by saying the prayer for them. 
 
 
-
 ## Getting Started
 
 Search for and enable the skill "Prayer Bot" in the Alexa app. For more detailed information on enabling Alexa skills, see [this](https://www.amazon.com/gp/help/customer/display.html?nodeId=201848700) guide. 
@@ -21,10 +20,25 @@ The full list of intents are:
 
 
 
-### Break down into end to end tests
+### What can I say?
 
-Explain what these tests test and why
+In order to interact with prayer bot, all requests must begin with 
+```
+ask prayer bot 
+```
+and then  your request.
 
+For example,
+```
+Alexa, ask prayer bot to bless the food.
+```
+or 
+```
+Alexa, ask prayer bot what i should pray about.
+```
+
+
+Here are some examples of things you can say:
 ```
 Give an example
 ```
