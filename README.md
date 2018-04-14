@@ -1,13 +1,14 @@
 # prayer bot
 
-An Alexa skill designed to settle mormon family arguments by saying the prayer for them. 
-test    
+An Alexa skill designed to settle Mormon family arguments by saying the prayer for them. 
+
 
 ## Getting Started
 
 Search for and enable the skill "Prayer Bot" in the Alexa app. For more detailed information on enabling Alexa skills, see [this](https://www.amazon.com/gp/help/customer/display.html?nodeId=201848700) guide. 
 
-## Usage
+
+## Intents
 
 Prayer Bot gives spontaneous randomly generated prayers. Prayer Bot can offer a basic prayer, bless the food, or give you prayer ideas so you can say it yourself.
 
@@ -19,14 +20,13 @@ The full list of intents are:
 * Long Prayer (a bit of a joke)
 
 
-
 ### What can I say?
 
 In order to interact with prayer bot, all requests must begin with 
 ```
 ask prayer bot 
 ```
-and then  your request.
+and then your request.
 
 For example,
 ```
@@ -38,18 +38,19 @@ Alexa, ask prayer bot what i should pray about.
 ```
 
 
-Here are some examples of things you can say:
-```
-Give an example
-```
+Here are more examples of things you can say:
+* offer a prayer for us
+* please pray
+* say grace 
+* give the blessing
+* say the dinner prayer
+* bless the refreshments
+* suggest what we should pray about
+* give me prayer ideas
+* say that prayer from alma
 
-### And coding style tests
+and more.
 
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Built With
 
