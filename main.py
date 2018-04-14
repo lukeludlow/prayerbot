@@ -127,8 +127,15 @@ def on_intent (request, session):
         return build_response('error, unknown intent')
 
 
+def on_session_ended():
+    output = "amen. hallelujah."
+
+    return build_response(output)
+
+
+# --- build simple json response --- #
+
 def build_response(output):
-    # build simple json response
 
     response = {
         'version': '1.0',
@@ -142,10 +149,7 @@ def build_response(output):
     return response;
 
 
-def on_session_ended():
-    output = "amen. hallelujah."
 
-    return build_response(output)
 
 
 
