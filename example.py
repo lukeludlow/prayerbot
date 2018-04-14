@@ -14,7 +14,7 @@ def lambda_handler(event, context):
     response = {
             'version': '1.0',
             'response': {
-                'outputSPeech': {
+                'outputSpeech': {
                     'type': 'PlainText',
                     'text': dinner,
                 }
