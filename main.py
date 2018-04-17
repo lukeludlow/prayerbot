@@ -127,6 +127,11 @@ def on_intent (request, session):
         return build_response('error, unknown intent')
 
 
+def on_launch(request, session):
+    output = "ask prayer bot to say the prayer, bless the food, give you prayer ideas, or more."
+    return build_response(output)
+
+
 def on_session_ended():
     output = "amen. hallelujah."
 
