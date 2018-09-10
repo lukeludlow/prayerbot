@@ -1,6 +1,6 @@
 # prayer bot
 
-Settle family arguments about whose turn it is to bless the food tonight by asking Alexa to pray for you.
+Settle family arguments about whose turn it is to bless the food by asking Alexa to pray for you.
 
 
 ## Getting Started
