@@ -1,6 +1,6 @@
 # prayer bot
 
-An Alexa skill designed to settle Mormon family arguments by saying the prayer for them. 
+Settle family arguments about whose turn it is to bless the food tonight by asking Alexa to pray for you.
 
 
 ## Getting Started
